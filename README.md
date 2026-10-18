@@ -13,4 +13,4 @@ Aplikacija s števcem, postavljena s ConstraintLayout, v Android Studiu
 
 ## Posnetki zaslona
 
-<img src="" width="250"> <img src="" width="250"> <img src="" width="250">
+<img src="screenshots/pokoncno.png" height="400"> <img src="screenshots/count.png" height="400"> <img src="screenshots/lezece.png" height="400">
