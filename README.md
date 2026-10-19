@@ -1,6 +1,6 @@
 # HelloConstraint
 
-Aplikacija s števcem, postavljena s ConstraintLayout, v Android Studiu
+Aplikacija s števcem, postavljena s ConstraintLayout
 
 ## Funkcionalnosti
 
