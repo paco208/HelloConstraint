@@ -13,4 +13,12 @@ Aplikacija s števcem, postavljena s ConstraintLayout
 
 ## Posnetki zaslona
 
-<img src="screenshots/pokoncno.png" height="400"> <img src="screenshots/count.png" height="400"> <img src="screenshots/lezece.png" height="400">
+<p align="center">
+  <img src="screenshots/pokoncno.png" height="450">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/count.png" height="450">
+</p>
+
+<p align="center">
+  <img src="screenshots/lezece.png" width="600">
+</p>
