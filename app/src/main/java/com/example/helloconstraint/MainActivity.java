@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private int count = 0;
     private TextView showCount;
     private Button buttonZero;
+    private Button buttonCount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         showCount = findViewById(R.id.show_count);
         buttonZero = findViewById(R.id.button_zero);
+        buttonCount = findViewById(R.id.button_count);
     }
 
     public void showToast(View view) {
@@ -55,5 +57,6 @@ public class MainActivity extends AppCompatActivity {
         count = 0;
         showCount.setText(String.valueOf(count));
         view.setBackgroundColor(Color.GRAY);
+        buttonCount.setBackgroundColor(Color.parseColor("#3F51B5"));
     }
 }
